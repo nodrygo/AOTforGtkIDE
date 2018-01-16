@@ -1,0 +1,1 @@
+julia --color=no -q  -i -e 'using GtkIDE'
