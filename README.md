@@ -1,9 +1,9 @@
 ## Ugly AOT compilation for GtkIDE (julia0.6)
 
-This is just a very ugly toy to test creation of GtkIde executable  *(worked for me on my Mint17-64b)*
+This is just a **very ugly toy for fun** to test creation of GtkIde executable  *(worked for me on my Mint17-64b)*
 
 Based on [GtkIDE](https://github.com/jonathanBieler/GtkIDE.jl) 
-and a modified clone of  [static-julia](https://github.com/JuliaComputing/static-julia) because c code is not parametrised for lib name. Probably final v0.7 code will be more finalised
+and a modified clone of  [static-julia](https://github.com/JuliaComputing/static-julia) because **C ** code is not parametrised for lib name. Probably final v0.7 code will be more finalised
 
 NOTE: the start method of GtkIDE should be modifed to be better for AOT
 
