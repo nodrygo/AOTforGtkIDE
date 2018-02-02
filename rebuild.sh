@@ -1,2 +1,1 @@
-rm -rf builddir
-julia --color=no  juliac.jl -ve gtkide.jl 
+ julia --color=no   juliac.jl -cvej gtkide.jl program.c  buildide
